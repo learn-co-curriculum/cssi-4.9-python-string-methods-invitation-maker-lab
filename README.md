@@ -1,9 +1,4 @@
----
- tags: python, strings, str.replace, interpolation, kids
- languages: python
- level: 1
- type: lab
----
+
 
 ## Graduation Invitation Maker
 
