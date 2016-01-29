@@ -90,4 +90,4 @@ Now that we have Percy's information, it's time to change the value of these var
 
 Use string interpoloation and the variables you just created to customize Percy's invitation for Ginny. As in Challenge 1, you'll want to use puts to print out your solution to the screen.
 
-<a href='https://learn.co/lessons/cssi-4.9-python-string-methods-invitation-maker-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.9-python-string-methods-invitation-maker-lab' title='Graduation Invitation Maker'>Graduation Invitation Maker</a> on Learn.co and start learning to code for free.</p>
